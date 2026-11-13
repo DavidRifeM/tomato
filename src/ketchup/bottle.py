@@ -1,5 +1,3 @@
-
-    import random
 import random
 
 def squeeze(food="fries"):
